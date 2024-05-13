@@ -108,3 +108,15 @@ a.btn{
     display: flex;
     flex-direction: row;
 }
+
+.orange{
+    color: #f84F07
+}
+
+.padded{
+    padding: 20px 30px;
+}
+
+.vert-pad{
+    padding: 20px 0;
+}
